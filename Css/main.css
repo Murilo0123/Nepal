@@ -1,0 +1,51 @@
+.informacoes {
+    background: rgb(211, 211, 211, 0.5);
+    color: #fff;
+    padding-bottom: 1.5rem;
+    border-radius: 2rem;
+    padding-inline: 1rem;
+    margin-inline: 2rem;
+    padding-top: 2rem;
+    text-align: center;
+}
+
+.informacoes h1 {
+    padding-top: 0;
+}
+
+.logo{
+    width: 7rem;
+    height: 2rem;
+    border-radius: 0;
+}
+
+
+
+.borda {
+    background-color: rgb(211, 211, 211, 0.5);
+    border-radius: 2.5rem;
+    padding: 2rem;
+    margin: 2rem;
+}
+
+.pontos-titulo {
+    margin: 1.5rem;
+    
+}
+
+.ponto {
+    background: rgb(211, 211, 211, 0.5);
+    margin: 1.5rem;
+    padding: 0.5rem;
+    border-radius: 15px;
+    color: #fff;
+}
+
+
+
+.ponto h3 {
+    margin-block: 0.5rem;
+    text-align: center;
+    color: #fff;
+}
+
