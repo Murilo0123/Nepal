@@ -1,3 +1,37 @@
 @media (min-width: 650px) {
+   main{
+        width: 30rem;
+        height: 30rem;
+        margin: auto;
 
+    }
+
+    .first-section{
+        display: block;
+        
+    }
+    .cima {
+        display: flex;
+
+    }
+
+    .baixo {
+        display: flex;
+    }
+
+    .ponto {
+        width: 22rem;
+    }
+
+    .borda {
+        height: 37rem;
+        width: 37rem;
+        display: flex;
+        flex-direction: column;
+        height: min-content;
+    }
+
+    #bandeira {
+        width: 20rem;
+    }
 }
